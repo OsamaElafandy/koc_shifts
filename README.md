@@ -1,6 +1,13 @@
 # koc_shifts
 ## This App For A Company employees in Kuwait can know their work shifts and vacations
 
+<p align="center">
+
+<img src="https://github.com/OsamaElafandy/koc_shifts/assets/57262627/41758b6d-74bf-4b3f-96ab-a9fcd715f669"  height="60%" width="40%" >
+<img src="https://github.com/OsamaElafandy/koc_shifts/assets/57262627/0d8fe386-e0cf-4c78-8023-54009eaf52b2"  height="60%" width="40%" >
+
+<p align="center">
+
 ![Simulator Screenshot - iPhone11 - 2024-02-01 at 15 32 18](https://github.com/OsamaElafandy/koc_shifts/assets/57262627/41758b6d-74bf-4b3f-96ab-a9fcd715f669)
 ![Simulator Screenshot - iPhone11 - 2024-02-01 at 15 32 10](https://github.com/OsamaElafandy/koc_shifts/assets/57262627/0d8fe386-e0cf-4c78-8023-54009eaf52b2)
 ![Simulator Screenshot - iPhone11 - 2024-02-01 at 15 31 56](https://github.com/OsamaElafandy/koc_shifts/assets/57262627/b4f148ac-cea8-4d0a-a418-a8e46bee3a76)
