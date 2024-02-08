@@ -1,5 +1,5 @@
 # koc_shifts
-## This App For A Company employees in Kuwait can know their work shifts and vacations
+## This App For A Company employees in Kuwait can know their work shifts , vacations and salary
 
 
 <p align="center">
